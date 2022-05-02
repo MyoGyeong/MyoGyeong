@@ -14,7 +14,7 @@
 - 🥇 I majored in Computer Science and Engineering
 - 🎓 Kyonggi University, Computer Science and Engineering ( 2018. 03 ~ )
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thsayrud0)](https://solved.ac/thsayrud0)
+//[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thsayrud0)](https://solved.ac/thsayrud0)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thsayrud0&&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thsayrud0)](https://github.com/thsayrud0/github-readme-stats)
 <!--
