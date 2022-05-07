@@ -5,9 +5,7 @@
 <img alt="Python" src ="https://img.shields.io/badge/PYTHON-blue.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Java" src ="https://img.shields.io/badge/JAVA-red.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-Green.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-<img alt="JavaScript" src ="https://img.shields.io/badge/JAVASCRIPT-yellow.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 <img alt="Android" src ="https://img.shields.io/badge/Android-Green.svg?&style=for-the-badge&logo=android&logoColor=white"/>
-<img alt="Mysql" src ="https://img.shields.io/badge/MySQL-blue.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="tensorflow" src ="https://img.shields.io/badge/Tensorflow-orange.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/><br>
 
 - 🌱 I’m currently learning Algorithm and JAVA
