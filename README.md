@@ -8,7 +8,6 @@
 <img alt="Android" src ="https://img.shields.io/badge/Android-Green.svg?&style=for-the-badge&logo=android&logoColor=white"/>
 <img alt="tensorflow" src ="https://img.shields.io/badge/Tensorflow-orange.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/><br>
 
-- 🌱 I’m currently learning Algorithm and JAVA
 - 🥇 I majored in Computer Science and Engineering
 - 🎓 Kyonggi University, Computer Science and Engineering ( 2018. 03 ~ )
 
